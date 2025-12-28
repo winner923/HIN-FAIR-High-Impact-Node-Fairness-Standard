@@ -21,5 +21,6 @@ For each event, record at least:
   - SHA-256: ...HIN_FAIR_BACKGROUND_NOTES_v1_1  
 - Proof: `ots_receipts/hin_fair_v1_1.ots`  
 - Notes: Initial public release notarization.
-
+- OTS receipt for meta/HASHES.md: meta/ots_receipts/HIN-FAIR_HASHES_v1.1.ots
+- 
 Update this file whenever you add new notarization events.
